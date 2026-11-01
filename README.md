@@ -49,7 +49,7 @@ Un reproductor para la música que tienes en archivos. Arma tu biblioteca sola, 
 
 ## <img src="assets/icons/atelier.png" width="32" align="top"> Atelier
 
-Antes Alejo Tools. Junta en una ventana herramientas para proyectos audiovisuales y para el equipo: guion y storyboard, generador de ideas de escenas, dibujo, descarga y etiquetado de música, reloj, sincronización con Syncthing y monitor del sistema.
+Junta en una ventana herramientas para proyectos audiovisuales y para el equipo: guion y storyboard, generador de ideas de escenas, dibujo, descarga y etiquetado de música, reloj, sincronización con Syncthing y monitor del sistema.
 
 **Windows · Linux** &nbsp;—&nbsp; [Descargar](https://github.com/Amariless/Atelier-releases/releases/latest)
 
